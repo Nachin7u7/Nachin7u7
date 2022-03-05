@@ -10,6 +10,7 @@ I'm programming and mathematics private teacher usually.
     - C#
     - Scala
     - R
+    - SQL
  ```
   
 Where to contact? 📞\
