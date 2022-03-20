@@ -14,5 +14,5 @@ I'm programming and mathematics private teacher usually.
  ```
   
 Where to contact? 📞\
-  *Email: ignacio.valencia.sauma@gmail.com*
+  *Email: ignacio.valencia.sauma@gmail.com* \
   *LinkedIn: https://www.linkedin.com/in/ricardo-ignacio-valencia-sauma-52500b219/*
