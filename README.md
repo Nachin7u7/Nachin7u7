@@ -1,24 +1,31 @@
-Hi!👋 Im @Nachin7u7, Ricardo I. Valencia, System Engineering student in UPB from Bolivia.
-I really love **videogames!** 🎮✨ (play them and develop them), I'm too skilled at game design (I use Unity and Unreal frecuently).\
-Also I am skilled in **Mobile and Web developing**, I'm experimented in Back-end and Front-End; I know how to implement UI/UX in every software that I create.\
-I'm programming and mathematics private teacher usually.\
-  ___I have experience in: 💻___
-  ```
-    - Java
-    - Python
-    - HTML
-    - CSS
-    - Php
-    - C/C++
-    - C#
-    - Scala
-    - R
-    - SQL
-    - OOP
-    - Unity
-    - Unreal
- ```
-  
-Where to contact? 📞
+👋 Hi there! I'm @Nachin7u7, Ricardo I. Valencia S., a System Engineering student at UPB from Bolivia.
+
+I absolutely love **videogames!** 🎮✨ Whether it's playing them or developing them, I'm deeply passionate about gaming. I consider myself skilled in game design (frequently using Unity and Unreal Engine).
+
+Additionally, I'm proficient in **Mobile and Web development**, with experience in both Back-end and Front-End. I'm dedicated to implementing top-notch UI/UX in every software I create.
+
+I also work as a private tutor for programming and mathematics.
+
+💻 **Experience in:**
+```
+- Java
+- Python
+- HTML
+- CSS
+- Php
+- C/C++
+- C#
+- Scala
+- R
+- SQL
+- Object-Oriented Programming (OOP)
+- Unity
+- Unreal Engine
+- Javascript
+- Typescript
+```
+And more!
+
+Looking to get in touch? 📞
   - *Email: ignacio.valencia.sauma@gmail.com* 
-  - *LinkedIn: https://www.linkedin.com/in/ricardo-ignacio-valencia-sauma-52500b219/*
+  - *LinkedIn: [Ricardo Ignacio Valencia Sauma](https://www.linkedin.com/in/ricardo-valencia-sauma-528036293/)*
